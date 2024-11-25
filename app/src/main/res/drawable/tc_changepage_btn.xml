@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Layer background màu trắng -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/new_purple" />
+            <stroke
+                android:width="2dp"
+                android:color="@android:color/black" /> <!-- Đổ viền màu đen -->
+        </shape>
+    </item>
+
+</layer-list>

@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Vòng cung biểu thị đúng -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#00FF2F"
+        android:strokeWidth="2"
+        android:pathData="M12,2 a10,10 0 1,1 0,20 a10,10 0 1,1 0,-20"
+        android:trimPathStart="0.0"
+        android:trimPathEnd="0.75"/> <!-- 75% đúng -->
+
+    <!-- Vòng cung biểu thị sai -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#F62A03"
+        android:strokeWidth="2"
+        android:pathData="M12,2 a10,10 0 1,1 0,20 a10,10 0 1,1 0,-20"
+        android:trimPathStart="0.75"
+        android:trimPathEnd="1.0"/> <!-- 25% sai -->
+</vector>

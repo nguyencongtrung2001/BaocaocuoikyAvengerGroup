@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Trung_Flashcard</string>
+    <string name="sign"> Đăng ký</string>
+    <string name="login"> Đăng nhập</string>
+    <string name="email"> Email / Điện thoại </string>
+    <string name="username">Tên đăng nhập </string>
+    <string name="password">Mật khẩu</string>
+    <string name="confirm"> Nhập lại mật khẩu </string>
+    <string name="daco">Đã có tài khoản </string>
+    <string name="chuaco">Bạn có tài khoản chưa ?</string>
+    <string name="encode"> Nhập mã code</string>
+    <string name="rel"> Trở về đăng nhập </string>
+    <string name="request"> Gửi yêu cầu</string>
+    <string name="repass"> Đặt Lại Mật Khẩu</string>
+    <string name="textcancl">Hủy</string>
+    <string name="textconfirm">Xác nhận </string>
+    <string name="sdt">Số điện thoại </string>
+    <string name="Avenger_Group"> Avenger_Group</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_password">*********</string>
+    <string name="display_name">Chỉnh sửa tên hiển thị </string>
+    <string name="wild_animal">Wild Animal</string>
+    <string name="folder_image_description">Folder Image Description</string>
+    <string name="information"> Thông tin cá nhân </string>
+    <string name="flashcard">FLASHCARD</string>
+</resources>

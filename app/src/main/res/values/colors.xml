@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#52588C</color>
+    <color name="new_purple">#8692F7</color>
+    <color name="dark_gray">#B6B5B5</color>
+    <color name="tracnghiem_linear_bk">#FFC107</color>
+    <color name="tracnghiem_background">#ffffff</color>
+    <color name="tracnghiem_options">#4CC9F0</color>
+    <color name="tracnghiem_button">#FFC107</color>
+    <color name="tracnghiem_kq_dung">#00FF1C</color>
+    <color name="tracnghiem_kq_sai">#FA0808</color>
+    <color name="colorAccent">@android:color/white</color>
+    <color name="v_progress_bar">#00FF1C</color>
+
+    <color name="ketqua_header">#4CC9F0</color>
+    <color name="ketquatablayout">#FF5722</color>
+    <color name="kq_footer_background">#C8C6C6</color>
+    <color name="kq_view">#FF5722</color>
+    <color name="trinhchieu_changepage_btn">#FF5722</color>
+</resources>
